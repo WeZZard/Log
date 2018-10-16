@@ -70,6 +70,9 @@
 		9C8C26252175A24100CF0E4A /* _os_log_pack.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C8C26232175A23900CF0E4A /* _os_log_pack.h */; };
 		9C8C26262175A24100CF0E4A /* _os_log_pack.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C8C26232175A23900CF0E4A /* _os_log_pack.h */; };
 		9C8C26272175A24200CF0E4A /* _os_log_pack.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C8C26232175A23900CF0E4A /* _os_log_pack.h */; };
+		9C8C26282175CA5500CF0E4A /* LogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C25DF2175939200CF0E4A /* LogTests.swift */; };
+		9C8C26292175CA5500CF0E4A /* LogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C25DF2175939200CF0E4A /* LogTests.swift */; };
+		9C8C262A2175CA5600CF0E4A /* LogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C25DF2175939200CF0E4A /* LogTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -544,6 +547,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C8C26282175CA5500CF0E4A /* LogTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,6 +572,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C8C26292175CA5500CF0E4A /* LogTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -609,6 +614,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C8C262A2175CA5600CF0E4A /* LogTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
