@@ -17,7 +17,7 @@ make use of this framework in Swift now.
 
 - [x] Supports Objective-C formatted string.
 
-- [x] Can log very long messages.
+- [x] Be able log very long messages.
 
 - [x] Struct extension support for extending subsystem.
 
