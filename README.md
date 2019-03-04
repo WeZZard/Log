@@ -17,7 +17,7 @@ make use of this framework in Swift now.
 
 - [x] Supports Objective-C style formatted string.
 
-- [x] Be able log very long messages.
+- [x] Be able to log very long messages.
 
 - [x] Struct extension support for extending subsystem.
 
@@ -92,7 +92,7 @@ extension Log.Category {
 Log.log(category: .myCategory, "A log.")
 ```
 
-Adding class info (this is useful for class functions).
+Adding class info (this is useful for debugging class functions).
 
 ```swift
 import Log
@@ -104,7 +104,7 @@ class Foo {
 }
 ```
 
-Adding object info (this is useful for instance functions).
+Adding object info (this is useful for debugging instance functions).
 
 ```swift
 import Log
