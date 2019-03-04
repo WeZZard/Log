@@ -3,10 +3,10 @@
 
 [中文](./使用說明.md)
 
-Offers an informative and modern logger interface for Swift.
+Offers an informative and modern logging interface for Swift.
 
-Apple introduced unified logging system at WWDC 2016. Since it is a set of
-C API which is very difficult to use in Swift, it was not spreaded out
+Apple introduced [unified logging system] at WWDC 2016. Since it is a set
+of C API which is very difficult to use in Swift, it was not spreaded out
 as other famous frameworks authored by Apple. I just have encapusulated it
 in Swift with some modern Swift practice and I think people can easily
 make use of this framework in Swift now.
@@ -125,3 +125,5 @@ API to log. This is disabled by default.
 ## License
 
 MIT
+
+[unified logging system]: https://developer.apple.com/videos/play/wwdc2016/721/
