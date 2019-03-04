@@ -13,15 +13,15 @@ make use of this framework in Swift now.
 
 ## Features
 
-- [-] Esay access to subsystem, category, log type and preset behavior.
+[-] Esay access to subsystem, category, log type and preset behavior.
 
-- [-] Supports Objective-C formatted string.
+[-] Supports Objective-C formatted string.
 
-- [-] Can log very long messages.
+[-] Can log very long messages.
 
-- [-] Struct extension support for extending subsystem.
+[-] Struct extension support for extending subsystem.
 
-- [-] Struct extension support for extending category.
+[-] Struct extension support for extending category.
 
 ## Usages
 
